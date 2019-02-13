@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "645355854224",
+    "firebase_url": "https://dummybwasatu.firebaseio.com",
+    "project_id": "dummybwasatu",
+    "storage_bucket": "dummybwasatu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645355854224:android:603441b450e5e8cb",
+        "android_client_info": {
+          "package_name": "com.bwa.firstapp.dummybwasatu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645355854224-n593ooj1dscp2k9odnqvho3rpsg8a3c7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bwa.firstapp.dummybwasatu",
+            "certificate_hash": "5e91b9cd236b4c882523be63895453ab274fcf1d"
+          }
+        },
+        {
+          "client_id": "645355854224-cuu9nm5e1bj2dv33k9dpfpu5b8ujb0f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz2Gw17hbv53fV_fbLLfXJsv_46weWgFo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645355854224-cuu9nm5e1bj2dv33k9dpfpu5b8ujb0f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
